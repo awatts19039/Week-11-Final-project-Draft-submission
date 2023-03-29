@@ -1,0 +1,5 @@
+C:\Users\andre\Documents\GitHub\final-project-awatts19039\Trees\obj\Debug\net7.0\Trees.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\final-project-awatts19039\Trees\obj\Debug\net7.0\Trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\GitHub\final-project-awatts19039\Trees\obj\Debug\net7.0\Trees.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\GitHub\final-project-awatts19039\Trees\obj\Debug\net7.0\Trees.AssemblyInfo.cs
+C:\Users\andre\Documents\GitHub\final-project-awatts19039\Trees\obj\Debug\net7.0\Trees.csproj.CoreCompileInputs.cache

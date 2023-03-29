@@ -1,0 +1,5 @@
+C:\Users\andre\Documents\GitHub\final-project-awatts19039\Linked Lists\obj\Debug\net7.0\Linked Lists.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\final-project-awatts19039\Linked Lists\obj\Debug\net7.0\Linked Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\GitHub\final-project-awatts19039\Linked Lists\obj\Debug\net7.0\Linked Lists.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\GitHub\final-project-awatts19039\Linked Lists\obj\Debug\net7.0\Linked Lists.AssemblyInfo.cs
+C:\Users\andre\Documents\GitHub\final-project-awatts19039\Linked Lists\obj\Debug\net7.0\Linked Lists.csproj.CoreCompileInputs.cache
